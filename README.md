@@ -8,7 +8,8 @@ so you can work on sizing better
 # How to use
 Just link the sizeInPage.js file to your page and then call the startSizeInPage function 
 ```html
-<script src="sizeInPage.js"></script>```
+<script src="sizeInPage.js"></script>
+```
 - startSizeInPage()
 
 # Options
@@ -26,7 +27,8 @@ startSizeInPage({
  align: 'bl',
  opacity: '1',
  help:'en'
-})```
+})
+```
 
 # Options values
 theme
@@ -36,12 +38,14 @@ Example of use:
 ```javascript
 startSizeInPage({
  theme: 'dark'
-})```
+})
+```
 or
 ```javascript
 startSizeInPage({
  theme: 'light'
-})```
+})
+```
 
 align
 align : 'tl' | 'tr' | 'bl' | 'br' | 'center' 
@@ -51,7 +55,8 @@ Example of use:
 ```javascript
 startSizeInPage({
  align: 'tl' (example)
-})```
+})
+```
 
 opacity
 To set the opacity and its value is between 0 and 1 
@@ -60,7 +65,8 @@ Example of use:
 ```javascript
 startSizeInPage({
  opacity: '0.8' (example)
-})```
+})
+```
 
 help
 help : 'en' | 'fa' 
@@ -70,4 +76,5 @@ Example of use:
 ```javascript
 startSizeInPage({
  help: 'en' (example)
-})```
+})
+```
