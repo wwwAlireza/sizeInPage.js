@@ -31,7 +31,7 @@ startSizeInPage({
 ```
 
 # Options values
-theme<br>
+<h3>theme</h3><br>
 theme: 'dark' | 'theme': light <br>
 (theme: dark is enabled by default) <br>
 Example of use:
