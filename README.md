@@ -46,7 +46,7 @@ startSizeInPage({
  theme: 'light'
 })
 ```
-<hr sizw="1">
+<hr size="1">
 <h3>align</h3> <br>
 align : 'tl' | 'tr' | 'bl' | 'br' | 'center'  <br>
 (align: 'bl' is enabled by default) <br>
