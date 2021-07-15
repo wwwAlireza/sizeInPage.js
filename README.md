@@ -75,5 +75,6 @@ To display the plugin guide (en = in English , fa = in Persian) <br>
 Example of use:
 ```javascript
 startSizeInPage({
- help: 'en' (example)
-})```
+ help:'en'
+})
+```
