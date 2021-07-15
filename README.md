@@ -31,7 +31,7 @@ startSizeInPage({
 ```
 
 # Options values
-<h3>theme</h3><br>
+<h4>theme</h4><br>
 theme: 'dark' | 'theme': light <br>
 (theme: dark is enabled by default) <br>
 Example of use:
@@ -46,7 +46,7 @@ startSizeInPage({
  theme: 'light'
 })
 ```
-
+<hr>
 align <br>
 align : 'tl' | 'tr' | 'bl' | 'br' | 'center'  <br>
 (align: 'bl' is enabled by default) <br>
