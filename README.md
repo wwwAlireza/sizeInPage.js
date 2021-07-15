@@ -73,7 +73,8 @@ help : 'en' | 'fa'
 To display the plugin guide (en = in English , fa = in Persian) <br>
 (help: 'none' is enabled by default) <br>
 Example of use:
-```javascript
+```
+javascript
 startSizeInPage({
  help:'en'
 })
