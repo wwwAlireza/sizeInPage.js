@@ -1,5 +1,5 @@
 # sizeInPage.js
-Is a JavaScript plugin that helps you better design websites
+Is a <b>JavaScript</b> plugin that helps you better design websites
 
 # How
 Used only for sizing and displays width, height and breakpoint <br>
@@ -13,10 +13,10 @@ Just link the sizeInPage.js file to your page and then call the startSizeInPage 
 - startSizeInPage()
 
 # Options
-+ theme (Set General theme) <br>
-+ align (Set the location on the page) <br>
-+ opacity (Adjust transparency) <br>
-+ help (Show help)<br>
+```+ theme``` (Set General theme) <br>
+```+ align``` (Set the location on the page) <br>
+```+ opacity``` (Adjust transparency) <br>
+```+ help``` (Show help)<br>
 Use options :<br>
 To use the options, we must pass them as an object and <br>
 as an argument to the startSizeInPage() function. <br>
