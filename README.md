@@ -46,7 +46,7 @@ startSizeInPage({
  theme: 'light'
 })
 ```
-<hr size="1">
+<hr>
 <h3>align</h3> <br>
 align : 'tl' | 'tr' | 'bl' | 'br' | 'center'  <br>
 (align: 'bl' is enabled by default) <br>
@@ -57,7 +57,7 @@ startSizeInPage({
  align: 'tl' (example)
 })
 ```
-
+<hr>
 <h3>opacity</h3> <br>
 To set the opacity and its value is between 0 and 1 <br>
 (opacity: 1 is enabled by default) <br>
@@ -67,7 +67,7 @@ startSizeInPage({
  opacity: '0.8' (example)
 })
 ```
-<hr size="2">
+<hr>
 <h3>help</h3> <br>
 help : 'en' | 'fa' 
 To display the plugin guide (en = in English , fa = in Persian) <br>
