@@ -76,5 +76,4 @@ Example of use:
 ```javascript
 startSizeInPage({
  help: 'en' (example)
-})
-```
+})```
