@@ -2,7 +2,7 @@
 Is a JavaScript plugin that helps you better design websites
 
 # How
-sizeInPage.min.js:1 Used only for sizing and displays width, height and breakpoint <br>
+Used only for sizing and displays width, height and breakpoint <br>
 so you can work on sizing better
 
 # How to use
@@ -31,9 +31,9 @@ startSizeInPage({
 ```
 
 # Options values
-theme
-theme: 'dark' | 'theme': light
-(theme: dark is enabled by default)
+theme<br>
+theme: 'dark' | 'theme': light <br>
+(theme: dark is enabled by default) <br>
 Example of use:
 ```javascript
 startSizeInPage({
@@ -47,10 +47,10 @@ startSizeInPage({
 })
 ```
 
-align
-align : 'tl' | 'tr' | 'bl' | 'br' | 'center' 
-(align: 'bl' is enabled by default)
-(Values ​​stand for directions, example: tr = top right)
+align <br>
+align : 'tl' | 'tr' | 'bl' | 'br' | 'center'  <br>
+(align: 'bl' is enabled by default) <br>
+(Values ​​stand for directions, example: tr = top right) <br>
 Example of use:
 ```javascript
 startSizeInPage({
@@ -58,9 +58,9 @@ startSizeInPage({
 })
 ```
 
-opacity
-To set the opacity and its value is between 0 and 1 
-(opacity: 1 is enabled by default)
+opacity <br>
+To set the opacity and its value is between 0 and 1 <br>
+(opacity: 1 is enabled by default) <br>
 Example of use:
 ```javascript
 startSizeInPage({
@@ -68,10 +68,10 @@ startSizeInPage({
 })
 ```
 
-help
+help <br>
 help : 'en' | 'fa' 
-To display the plugin guide (en = in English , fa = in Persian) 
-(help: 'none' is enabled by default)
+To display the plugin guide (en = in English , fa = in Persian) <br>
+(help: 'none' is enabled by default) <br>
 Example of use:
 ```javascript
 startSizeInPage({
