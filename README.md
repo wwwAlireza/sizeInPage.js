@@ -17,7 +17,7 @@ Just link the sizeInPage.js file to your page and then call the startSizeInPage 
 + align (Set the location on the page) <br>
 + opacity (Adjust transparency) <br>
 + help (Show help)<br>
-sizeInPage.min.js:1 Use options :<br>
+Use options :<br>
 To use the options, we must pass them as an object and <br>
 as an argument to the startSizeInPage() function. <br>
 example :
