@@ -31,7 +31,7 @@ startSizeInPage({
 ```
 
 # Options values
-<h4>theme</h4><br>
+<h3>theme</h3><br>
 theme: 'dark' | 'theme': light <br>
 (theme: dark is enabled by default) <br>
 Example of use:
@@ -47,7 +47,7 @@ startSizeInPage({
 })
 ```
 <hr>
-align <br>
+<h3>align</h3> <br>
 align : 'tl' | 'tr' | 'bl' | 'br' | 'center'  <br>
 (align: 'bl' is enabled by default) <br>
 (Values ​​stand for directions, example: tr = top right) <br>
@@ -58,7 +58,7 @@ startSizeInPage({
 })
 ```
 
-opacity <br>
+<h3>opacity</h3> <br>
 To set the opacity and its value is between 0 and 1 <br>
 (opacity: 1 is enabled by default) <br>
 Example of use:
@@ -67,8 +67,8 @@ startSizeInPage({
  opacity: '0.8' (example)
 })
 ```
-
-help <br>
+<hr size="2">
+<h3>help</h3> <br>
 help : 'en' | 'fa' 
 To display the plugin guide (en = in English , fa = in Persian) <br>
 (help: 'none' is enabled by default) <br>
